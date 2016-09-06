@@ -12,7 +12,7 @@ Installation
 ------------
 Get the distribution::
 
-  pip install wtforms-nocaptcha
+  pip install https://github.com/evrom/wtforms-nocaptcha/archive/master.zip
 
 
 Usage
